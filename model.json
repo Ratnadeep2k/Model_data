@@ -41,6 +41,34 @@
         "likes": 202,
         "link": "https://alphacode.ai/en/",
         "description": "AlphaCode, a revolutionary coding assistant, leverages generative AI to empower developers. It excels in writing code, bug resolution, and suggesting optimal programming solutions. Developers embrace AlphaCode for hastened workflows, task automation, and language acquisition."
+      },
+      {
+        "id": "7",
+        "title": "VisionaryAI",
+        "likes": 150,
+        "link": "https://visionaryai.com/",
+        "description": "VisionaryAI is an advanced computer vision system that interprets and analyzes visual information. It is applied in fields like autonomous vehicles, medical imaging, and industrial automation, providing accurate and real-time insights from visual data."
+      },
+      {
+        "id": "8",
+        "title": "QuantumMind",
+        "likes": 75,
+        "link": "https://quantummind.tech/",
+        "description": "QuantumMind is a cutting-edge quantum computing platform designed to solve complex problems that traditional computers struggle with. It harnesses the principles of quantum mechanics to perform computations at unprecedented speeds, revolutionizing scientific research and optimization tasks."
+      },
+      {
+        "id": "9",
+        "title": "HealthBot",
+        "likes": 120,
+        "link": "https://healthbot.ai/",
+        "description": "HealthBot, an AI-driven healthcare companion, assists users in managing their well-being. It provides personalized health recommendations, tracks fitness goals, and offers insights into nutrition. HealthBot aims to enhance individual health outcomes through intelligent data analysis."
+      },
+      {
+        "id": "10",
+        "title": "AeroSim",
+        "likes": 40,
+        "link": "https://aerosim.net/",
+        "description": "AeroSim is a sophisticated flight simulation system that replicates real-world flying conditions. It is utilized for pilot training, aircraft design testing, and virtual aviation experiences. AeroSim offers a realistic and immersive environment for aviation enthusiasts and professionals."
       }
     ]
   }
