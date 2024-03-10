@@ -62,13 +62,6 @@
         "likes": 120,
         "link": "https://healthbot.ai/",
         "description": "HealthBot, an AI-driven healthcare companion, assists users in managing their well-being. It provides personalized health recommendations, tracks fitness goals, and offers insights into nutrition. HealthBot aims to enhance individual health outcomes through intelligent data analysis."
-      },
-      {
-        "id": "10",
-        "title": "AeroSim",
-        "likes": 40,
-        "link": "https://aerosim.net/",
-        "description": "AeroSim is a sophisticated flight simulation system that replicates real-world flying conditions. It is utilized for pilot training, aircraft design testing, and virtual aviation experiences. AeroSim offers a realistic and immersive environment for aviation enthusiasts and professionals."
       }
     ]
   }
